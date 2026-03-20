@@ -5,6 +5,10 @@
 **Queries:** 9 SQL queries across 7 analytical dimensions
 
 ---
+<img width="905" height="513" alt="dashboard pg1" src="https://github.com/user-attachments/assets/d117343a-bd9c-4091-ac3b-6cc940ad4fd4" />
+
+<img width="905" height="513" alt="dashboard pg2" src="https://github.com/user-attachments/assets/892fa74c-89c9-411f-9df5-752c70bb8247" />
+
 
 ## Business Questions Answered
 
@@ -30,10 +34,10 @@
 ## Dashboard
 
 ### Page 1 — Transaction Overview
-![Transaction Overview](dashboard_page1.png)
+https://github.com/adharagrawal98/credit-card-financial-dashboard/blob/main/dashboard%20pg1.png
 
 ### Page 2 — Risk Intelligence
-![Risk Intelligence](dashboard_page2.png)
+https://github.com/adharagrawal98/credit-card-financial-dashboard/blob/main/dashboard%20pg2.png
 
 ---
 
@@ -92,4 +96,3 @@ credit-card-financial-dashboard/
 ---
 
 *Built by Adhar Agrawal — Data Analyst Portfolio Project 2025*
-EOF
